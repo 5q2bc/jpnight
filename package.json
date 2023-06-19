@@ -1,0 +1,21 @@
+{
+  "name": "jpnight",
+  "displayName": "jpnight",
+  "description": "jpnight",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jpnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jpnight-color-theme.json"
+      }
+    ]
+  }
+}
