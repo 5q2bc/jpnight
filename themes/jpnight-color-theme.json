@@ -1,7 +1,7 @@
 {
 	"character" : "#d8d8d8",
 	"$schema": "vscode://schemas/color-theme",
-	"type": "dark",
+    "name": "jpnight",
 	"colors": {
 		// accent color
 		"statusBar.background": "#505050",
@@ -25,8 +25,8 @@
 		"editor.wordHighlightStrongBackground": "#6767ce80",
 		"editorCursor.foreground": "#bb5548", //TODO: tweak last again
 		"editorGroupHeader.tabsBackground": "#282828",
-		"editorIndentGuide.activeBackground": "#707057",
-		"editorIndentGuide.background": "#505037",
+		"editorIndentGuide.activeBackground1": "#707057",
+		"editorIndentGuide.background1": "#505037",
 		"editorLineNumber.activeForeground": "#949494",
 		"editorWhitespace.foreground": "#505037",
 		"focusBorder": "#1e50a2", 

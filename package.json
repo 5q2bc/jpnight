@@ -3,9 +3,11 @@
   "displayName": "jpnight",
   "description": "jpnight",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.79.0"
-  },
+	"publisher": "Kauai",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
   "categories": [
     "Themes"
   ],
